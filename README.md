@@ -1,5 +1,10 @@
 # Stock_prediction_project
 
+# this project was inspire from a instagram post
+https://www.instagram.com/p/DLOHuJKyPbn/
+
+building a ML model to predict stock price for educational propose only. 
+
 
 # Stock Prediction Models for CCL
 Predicts Carnival Corporation (CCL) stock price movements using:
